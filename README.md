@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://github.com/fatemehmarzoughi/Resume/raw/main/CV.pdf">
+ 📄 Download Resume
+</a>
+
 <!--
 **fatemehmarzoughi/fatemehmarzoughi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
