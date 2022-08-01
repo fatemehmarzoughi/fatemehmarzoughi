@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://github.com/fatemehmarzoughi/Resume/raw/main/CV.pdf">
+<a href="https://github.com/fatemehmarzoughi/fatemehmarzoughi/raw/main/CV.pdf">
  📄 Download Resume
 </a>
 
