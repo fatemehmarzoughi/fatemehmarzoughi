@@ -3,6 +3,12 @@
 <a href="https://github.com/fatemehmarzoughi/fatemehmarzoughi/raw/main/CV.pdf">
  📄 Download Resume
 </a>
+<br/><br/>
+<a href="https://ir.linkedin.com/in/fatemeh-marzoughi-ab1031186"> 
+👩🏼‍💻 My LinkedIn
+</a>
+
+
 
 <!--
 **fatemehmarzoughi/fatemehmarzoughi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
