@@ -1,7 +1,7 @@
 ### Hi there 👋
 <br/>
 <a href="https://github.com/fatemehmarzoughi/fatemehmarzoughi/raw/main/CV.pdf">
- 📄 Download Resume
+ 📄 Download My Resume
 </a><a>¯\_(ツ)<a/>
 <br/><br/>
 <a href="https://ir.linkedin.com/in/fatemeh-marzoughi-ab1031186"> 
