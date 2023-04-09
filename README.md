@@ -7,9 +7,6 @@
 <a href="https://ir.linkedin.com/in/fatemeh-marzoughi-ab1031186"> 
 👩🏼‍💻 My LinkedIn
  </a><a>¯\_(ツ)</a>
- <br/>
- - 🌱 I’m currently learning ... ¯\_(ツ)_/¯
-
 
 
 <!--
