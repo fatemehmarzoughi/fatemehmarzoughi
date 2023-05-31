@@ -4,7 +4,7 @@
  📄 My Resume
 </a><a>¯\_(ツ)<a/> -->
 <!-- <br/><br/> -->
-<a href="https://ir.linkedin.com/in/fatemeh-marzoughi-ab1031186"> 
+<a href="https://www.linkedin.com/in/fatemeh-m-ab1031186/"> 
 👩🏼‍💻 My LinkedIn
  </a><a>¯\_(ツ)</a>
 
