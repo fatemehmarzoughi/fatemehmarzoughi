@@ -6,7 +6,7 @@
 <!-- <br/><br/> -->
 <a href="https://www.linkedin.com/in/fatemeh-m-ab1031186/"> 
 👩🏼‍💻 My LinkedIn
- </a><a>¯\_(ツ)</a><br/><br/>
+ </a><b>¯\_(ツ)</b><br/><br/>
 🌱 I’m currently working on <a href="https://github.com/fatemehmarzoughi/MyPlayer">MyPlayer<a/> 
 
 <!--
