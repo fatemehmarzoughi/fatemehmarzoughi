@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/fatemeh-m-ab1031186/"> 
 👩🏼‍💻 My LinkedIn
  </a><b>¯\_(ツ)</b><br/><br/>
-🌱 I’m currently working on <a href="https://github.com/fatemehmarzoughi/MyPlayer">MyPlayer<a/> 
+🌱 I’m currently working on <a href="https://github.com/fatemehmarzoughi/MyPlayer">MyPlayer<a/> and my backend skills
 
 <!--
 **fatemehmarzoughi/fatemehmarzoughi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
