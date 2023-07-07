@@ -7,6 +7,8 @@
 <!-- <a href="https://www.linkedin.com/in/fatemeh-m-ab1031186/"> -->
 <!-- 👩🏼‍💻 My LinkedIn -->
 <!--  </a><b>¯\_(ツ)</b><br/><br/> -->
+📫 How to reach me: <a style={{color: "blue"}}>saba.marzoughi18@gmail.com</a><br/><br/>
+📖 You can find my latest articles on <a href="https://medium.com/@fatemehmarzoughi">Medium</a><br/><br/>
 🌱 I’m currently working on <a href="https://github.com/fatemehmarzoughi/MyPlayer">MyPlayer<a/> and my backend skills </a><b>¯\_(ツ)</b><br/><br/>
 
 <!--
