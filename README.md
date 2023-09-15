@@ -18,7 +18,7 @@ Outside work, I like to keep learning by doing personal projects in my free time
 
 I aim to keep pushing the envelope in front-end development, especially in mobile applications, and make great user experiences in my future work. I'm looking forward to contact with you.</p>
 📫 How to reach me: <b>saba.marzoughi18@gmail.com</b>
-<br/><br/>
+<br/>
 📖 You can find my latest articles on <a href="https://medium.com/@fatemehmarzoughi">Medium</a><br/><br/>
 <br/>
 
