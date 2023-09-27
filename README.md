@@ -10,7 +10,7 @@
 
 ### About Me
 
-<p>My first name is Fatemeh, and my nickname is Saba :)
+<p>My first name is Fatemeh, and my nickname is Saba ¯\_(ツ)_/¯
 
 I'm a software developer with 3 years of full-time experience in frontend development, plus 2 years of part-time learning during my software engineering studies at university. I started getting into frontend tech back in college, and it laid the groundwork for my career.
 
